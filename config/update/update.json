@@ -2,7 +2,7 @@
     "tag_name": "240705",
     "assets": [
         {
-            "browser_download_url": "https://raw.githubusercontent.com/bestpvp/config/main/update/tmtv/app-release.apk"
+            "browser_download_url": "https://raw.githubusercontent.com/wxwb/sjys/main/config/update/app-release.apk"
         }
     ],
     "body": "功能更新\r\n\r\n- 增加自动更新功能\r\n\r\n- 替换国内CDN镜像站链接，解决部分用户无法打开自定义配置页的问题"
