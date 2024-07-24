@@ -1,9 +1,9 @@
 {
-    "tag_name": "240705",
+    "tag_name": "240723",
     "assets": [
         {
             "browser_download_url": "https://raw.githubusercontent.com/wxwb/sjys/main/config/update/app-release.apk"
         }
     ],
-    "body": "功能更新\r\n\r\n- 增加自动更新功能\r\n\r\n- 替换国内CDN镜像站链接，解决部分用户无法打开自定义配置页的问题"
+    "body": "240723 功能更新\r\n\r\n- 超时换源、断线重连\r\n\r\n- 尝试修复手机端设置界面直接退出应用\r\n\r\n- 默认禁用画中画\r\n\r\n- 支持rtsp协议\r\n\r\n- 全局画面比例"
 }
